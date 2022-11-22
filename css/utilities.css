@@ -1,0 +1,30 @@
+.h-primary
+{
+	font-size: 2rem;
+	padding: 12px;
+	font-family: 'Bree Serif', serif;
+	font-weight: normal;
+}
+
+.h-secondary
+{
+	font-family: 'Baloo Thambi 2', cursive;
+	font-size: 1.5rem;
+	padding: 12px;
+	font-weight: normal;
+}
+
+.btn
+{
+	padding: 6px 20px;
+	border: 1px solid white;
+	background-color: brown;
+	color: white;
+	margin: 17px;
+	cursor: pointer;
+}
+
+.center
+{
+	text-align: center;
+}
